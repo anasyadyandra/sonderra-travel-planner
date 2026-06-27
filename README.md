@@ -24,3 +24,5 @@ Sonderra is a personalized travel planning platform developed for the Web Develo
 ## Live Demo
 
 [https://your-travel-dna.lovable.app]
+
+This project was developed using Lovable and deployed online through Lovable hosting. Due to platform export limitations, the repository contains the exported HTML version of the application together with project documentation.
